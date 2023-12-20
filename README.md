@@ -13,8 +13,8 @@ Find the 2-norm of the matrix using np.linalg.norm()
 Print the norm of the matrix in two decimal places.
 ## Program:
 ```Python
-# Register No: PRADEP.E
-# Developed By: 212223230149
+# Register No: 212223230149
+# Developed By: PRADEEP.E
 # 1-Norm of a Matrix
 import numpy as np 
 value= eval(input())
